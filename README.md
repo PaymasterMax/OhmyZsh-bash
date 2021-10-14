@@ -10,4 +10,4 @@ Your terminal prompt will endup looking like the above prompt once you follow th
 ### 3. Give the file execute permissions using the following command `chmod +x ohmyzsh.sh`
 ### 4. Excute the .sh file using the following ./ohmyzsh.sh and reopen the terminal. There you go, it wasn't that hard was it.
 
-![giphy](https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif)
+![giphy](https://media.giphy.com/media/FlWgXEtj5aM5G/giphy.gif)
